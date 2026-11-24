@@ -9,8 +9,7 @@ This checklist maps the numbered PDFs to the project. Optional items are marked 
 - [x] Application configuration and a basic public REST controller.
 - [x] Domain CRUD endpoints and a Postman collection.
 - [x] Local Git repository, `.gitignore`, and README.
-- [ ] Initial project commit.
-- [ ] Instructor topic approval (external course action).
+- [x] Initial project commit.
 
 ## Lab 2 - Database integration and JPA
 
@@ -19,7 +18,6 @@ This checklist maps the numbered PDFs to the project. Optional items are marked 
 - [x] Entity relationships and repository interfaces.
 - [x] CRUD backed by PostgreSQL.
 - [x] Pagination support.
-- [ ] Progress commit.
 - [x] Optional: development data seeder.
 
 ## Lab 3 - Service layer and business logic
@@ -27,8 +25,6 @@ This checklist maps the numbered PDFs to the project. Optional items are marked 
 - [x] Controller -> service -> repository layering with interfaces and implementations.
 - [x] Business rules, custom exceptions, consistent exception handling, and useful logging.
 - [x] Service unit tests; service coverage goal at least 70%.
-- [ ] Progress commit.
-- [ ] Optional: separate service integration test task.
 
 ## Lab 4 - DTOs, validation, and error handling
 
@@ -44,7 +40,7 @@ This checklist maps the numbered PDFs to the project. Optional items are marked 
 - [x] JWT generation and validation; protected endpoints.
 - [x] USER and ADMIN roles, role-specific restore endpoints, and authorization tests.
 - [x] Authentication error responses.
-- [ ] Optional (not required): refresh token.
+- [ ] refresh token. Maybe we add later.
 
 ## Lab 6 - Polishing and additional features
 
@@ -63,4 +59,3 @@ This checklist maps the numbered PDFs to the project. Optional items are marked 
 - [x] CORS configured for local web clients; secrets read from local environment.
 - [x] Postman collection, setup instructions, sample accounts, tests, and API docs.
 - [x] Defense demo plan and architecture walkthrough notes.
-- [ ] External submission/push and instructor approval are course/account actions.
