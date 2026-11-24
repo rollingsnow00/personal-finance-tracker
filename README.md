@@ -96,6 +96,3 @@ Protected endpoints use `Authorization: Bearer <accessToken>`. List endpoints re
 - Soft delete with ADMIN restore
 - Audit timestamps and user attribution
 
-## Progress and course notes
-
-The full PDF-to-code checklist is in `docs/requirements-checklist.md`. The project is an individual course assignment. Review the code and practice explaining the design for the Lab 7 defense. The topic requires instructor approval in Lab 1. A GitHub/GitLab remote and course submission still need the student's account and course details.
